@@ -7,7 +7,7 @@ int main(void)
 {
 
 	cout << "Hi" << endl;
-	cout << "This is my first commit!" << endl;
+	cout << "This is my second commit!" << endl;
 
 	return 0;
 
